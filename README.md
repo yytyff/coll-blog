@@ -2,4 +2,4 @@
 
 ### 企业页面
 预览地址：
-http://js.jirengu.com/qavifelika/1
+https://yytyff.github.io/coll-blog/demo.html
